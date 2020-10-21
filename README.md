@@ -1,6 +1,6 @@
 # Matebook-D14-2020-hackintosh-Pm981
 
-1.基于[ske1996](https://github.com/ske1996)的黑苹果项目修改，主要是为了修复PM981硬盘产生的各种奇葩问题。
+1.基于[ske1996](https://github.com/ske1996)的黑苹果项目修改，主要是为了修复PM981硬盘产生的各种奇葩问题。大大提高了启动黑苹果的成功率（不是100%，这硬盘型号太妖了）。
 
 2.具体内容可查看ske1996的黑苹果D14项目https://github.com/ske1996
 
